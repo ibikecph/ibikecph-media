@@ -1,0 +1,15 @@
+Find your way on bicycle in Copenhagen. The app knows all the nice bicycle shortcuts, which parks you’re allowed to bike in and where you’re allowed to ride against the one-way flow for cars.
+I Bike CPH is the City of Copenhagen’s app for everyone cycling. The app is adapted to bike life in Copenhagen, but works anywhere in Denmark.
+The map is customized for cycling and shows e.g. cobblestones and bicycle barriers, so you can avoid bumpy rides and detours on cargo bike.
+ 
+Features
+• Find the quickest route on bike - the app knowns about the good bike shortcuts.
+• Routes for cargo bikes which avoid steps, bike barriers and cobblestones.
+• Get guidance as you ride with GPS turn-by-turn navigation (requires a phone holder).
+• Avoids bumpy rides – the app avoid cobblestones when possible.
+• Suggests pushing your bike when it makes sense, e.g. on one-way streets.
+• Green Routes and Cycle Super Highways are prioritised.
+• You can login and save your favourite places, so you can quickly find your way to them later.
+• Bike map that shows cobblestones, bike barriers, Green Routes, Cycle Super Highways, etc.
+• Searches for addresses, cafés, specific places, etc.
+• Uses data from the crown sourced OpenStreetMap (OSM) project, which is continuously updated.

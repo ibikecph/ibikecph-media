@@ -1,0 +1,15 @@
+Find vej på cykel i København. Appen kender alle de gode cykelsmutveje og ved hvilke parker du må cykle i og hvor du lovligt må cykle mod ensretningen for biler.
+I Bike CPH er Københavns Kommunes app for alle der cykler. Appen er tilpasset livet på cykel i København, men virker i hele Danmark.
+Kortet er tilpasset cykling og viser bl.a. brosten og cykelbomme, så du kan slippe for rysteture og omveje på ladcykel.
+ 
+Funktioner
+• Find den hurtigst vej på cykel - appen kender de gode cykelgenveje.
+• Ruter for ladcykler - undgå trapper, cykelbomme og brosten.
+• Bliv guidet undervejs med GPS turn-by-turn navigation (kræver en mobilholder).
+• Undgå rysteture – appen undgår så vidt muligt brosten.
+• Foreslår træk af cykel når det kan betale sig, fx ved ensrettede gader.
+• Grønne stier og Supercykelstier bliver prioriteret.
+• Log ind og gem favorit-steder, så du hurtigt kan finde vej til dem senere.
+• Cykelkort der  viser brosten, cykelbomme, grønne ruter, Supercykelstier, etc.
+• Søg efter adresser, caféer, steder, etc.
+• Anvender kortdata fra det brugerdrevne OpenStreetMap (OSM), der opdateres løbende.
