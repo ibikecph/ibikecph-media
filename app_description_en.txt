@@ -13,3 +13,5 @@ Features
 • Bike map that shows cobblestones, bike barriers, Green Routes, Cycle Super Highways, etc.
 • Searches for addresses, cafés, specific places, etc.
 • Uses data from the crown sourced OpenStreetMap (OSM) project, which is continuously updated.
+
+Continued use of GPS running in the background can dramatically decrease battery life. The app is optimized to only use GPS when necessary.

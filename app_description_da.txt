@@ -13,3 +13,5 @@ Funktioner
 • Cykelkort der  viser brosten, cykelbomme, grønne ruter, Supercykelstier, etc.
 • Søg efter adresser, caféer, steder, etc.
 • Anvender kortdata fra det brugerdrevne OpenStreetMap (OSM), der opdateres løbende.
+
+Kontinuerlig brug af GSP i baggrunden kan reducere batterilevetiden dramatisk. Appen er optimeret til kun at bruge GPS når det er nødvendigt.
